@@ -1,3 +1,12 @@
+
+# Challenge de React que te toman para trabajar en MercadoLibre como frontend developer. Imitación de una de las páginas del sitio.
+
+![Captura de pantalla (89)](https://user-images.githubusercontent.com/97048366/200679504-18193417-d88f-4f0d-a695-5e9e903d0d6e.png)
+
+![Captura de pantalla (90)](https://user-images.githubusercontent.com/97048366/200679537-071c1645-fc4b-428d-ad58-73bbe59047cf.png)
+
+![Captura de pantalla (91)](https://user-images.githubusercontent.com/97048366/200679584-36f7a315-488b-4d33-9286-196aab6f6048.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
