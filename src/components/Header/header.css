@@ -1,0 +1,97 @@
+.cont {
+    width: 100%;
+    background-color: var(--yellow);
+    height: 100px;
+}
+
+.img{
+    width: 15vw;
+}
+
+
+.wrapperh { 
+    max-width: 1200px;
+    padding: 8px 8px; 
+    margin: 0 auto;
+    height: 91px;
+
+}
+
+.inp-h { 
+    width: 598px ;
+    height: 39px;
+    margin-left: 50%;
+    box-shadow: 0px 0px 5px 1px rgba(128, 128, 128, 0.705)  ;
+    padding-left: 11px;
+    font-size: 16px;
+    
+  }
+
+  .inp-div{
+    position: absolute;
+    margin-top: -70px;
+    margin-left: 20px;
+    
+  }
+
+  .inp-b {
+    position: absolute;
+    margin-left: 145%;
+    margin-top: -35px;
+    border-left: 1px solid var(--border);
+    padding: 5px;
+    background-color: white;
+    cursor: pointer;
+    font-size: 20px;
+    width: 30px;
+    
+  }
+  
+  .extra{
+    position: absolute;
+    margin-left: 23%;
+    margin-top: -26px;
+    
+  }
+
+.extra2 {
+
+    position: absolute;
+    margin-left: 73%;
+    margin-top: -50px;
+    color: black;
+    
+    
+  } 
+
+  .ex2 { 
+    margin-left: 3px;
+    color:black;
+    width: 100%;
+    font-size: 20px;
+    line-height: 55px;
+  }
+  .ex {
+    text-decoration: none;
+    padding: 7px;
+    color: rgba(0, 0, 0, 0.479);
+    font-size: 14px;
+    
+  }
+  .ex3 {
+   
+    margin-left: 1px;
+    text-decoration: none;
+    padding: 7px;
+    
+    font-size: 13px;
+    line-height: 20px;
+    color: var(--text1);
+  opacity: 70%;
+  }
+
+  .inp-h { 
+    color: red ;
+    
+  }
+    

@@ -1,0 +1,49 @@
+.muv { 
+    width: 80%;
+    color: black;
+    margin-left: 50px;
+}
+
+.description {
+    border-top: 1px solid var(--border) ;
+    width: 100% ;
+    color: black;
+    margin: 0% auto ;
+    padding: 40px 0;
+    font-family: "Proxima Nova", -apple-system, Roboto, Arial, sans-serif;
+    padding: 10px;
+    margin-left: 0px;
+    font-size: 14px;
+    
+    
+}
+
+.desc-info {
+    color: black ;
+    font-size: 24px;
+    margin-bottom: 32px;
+    line-height: 30px;
+    font-family: 'Proxima Nova', apple-system, Roboto, Arial, sans-serif;
+    font-weight: 400;
+}
+
+.p { 
+    font-size: 20px;
+    line-height: 27px;
+    justify-content: center; 
+    color:black; 
+    opacity: 55.5%;
+
+}
+
+.sp {
+    font-size: 20px;
+    line-height: 27px;
+    color:black;
+    opacity: 55.5%
+   }
+
+.hr { 
+    border-top: 1px solid var(--text2);
+    margin-bottom: 5px;
+}

@@ -1,0 +1,79 @@
+
+.href {
+    color: blue;
+}
+
+.divg-2{
+    
+    position: absolute ;
+    margin-left: 445px ;
+    margin-top: 97.5% ;
+    font-family: "Proxima Nova", -apple-system, Roboto, Arial, sans-serif, sans-serif;
+width: 352px
+}
+.section2 {
+    
+    padding: 32px 16px;
+    margin: 0 20px ; 
+    border: 1px solid var(--border);
+    border-bottom: none ;
+    width: 350px;
+    height: 305px;
+    margin-left: 100%;
+    border-radius: 5px;
+    display: grid
+     ;
+   
+}
+
+.h5 {
+    
+    font-size: 18px;
+    color: #000000da ; 
+    opacity: 90%;
+    margin-left: 10px;
+    font-weight: normal;
+    margin-bottom: 0px;
+    
+
+   
+}
+
+.description-ga {
+    color: #000000;
+    opacity: 55.5%;
+    margin-left: 0px;
+    font-size: 14px; 
+    
+}
+
+.divs {
+    display: flex ;
+    flex-direction: column;
+opacity: 90%;
+
+
+}
+
+.span2{ 
+   
+    margin-top: 24px;
+
+    
+}
+
+.title { 
+    margin-left:10px;
+    font-size: 16 px;
+    color: rgba(0, 0, 0, 0.884) ;
+    margin-bottom: 12px ; 
+
+}
+
+.href { 
+    margin-left: 10px;
+    color: var (--blue3) ;
+    text-decoration: none;
+    font-size: 14px;
+    
+}

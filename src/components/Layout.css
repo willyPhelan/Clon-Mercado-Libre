@@ -1,0 +1,11 @@
+.contanier { 
+    background-color: black ;
+    width: 100px ;
+
+}
+
+.wrapper { 
+    max-width: 1184px;
+    margin: 0 auto ;
+    max-height: 1184px ; 
+   }

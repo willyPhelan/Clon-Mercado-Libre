@@ -1,0 +1,30 @@
+.conte {
+    display: flex;
+    padding-top: 12px;
+    justify-content: space-between; }
+
+.row {
+    font-size: 14px;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between; }
+
+.a{
+    text-decoration: none;
+    padding: 2.5px 0;
+    color: var(--blue3);
+    transition: all 300ms ease-in-out ;}
+
+.a2 {
+    padding-left: 10px;
+    margin-left: 10px;
+    border-left: 1px solid var(--border);
+}
+
+.volver { 
+    color: var(--text1)
+}
+
+a:hover { 
+    color: var(--blue2)
+}

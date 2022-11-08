@@ -1,0 +1,189 @@
+.conten{ 
+    padding: 32px 16px;     
+    position: absolute ;
+    margin: 0 16px ;
+    margin-left:  59%;
+    font-family: "Proxima Nova", -apple-system, Roboto, Arial, sans-serif, sans-serif;
+    display: flex ;
+    flex-direction: column;
+    border: 1px solid var(--border) ; 
+    border-radius: 5px;
+    margin-top: 65%;
+    width: 351px;
+
+
+}
+
+.title-i { 
+    font-size: 18px;
+    margin-bottom: 28px;
+    line-height: 22.5px;
+    color: black ;
+    opacity: 80%;
+}
+
+.card { 
+    display: flex ;
+    align-items: center;
+    margin-bottom: 20px ;
+}
+    
+    .rowI { 
+        display: flex;
+        flex-direction: column;
+    }
+
+.div-i { 
+    margin-left: 25px ;
+}
+
+.p-i { 
+    font-size: 16px;
+    line-height: 20px;
+    color: black ; 
+    opacity: 80%;
+}
+
+.stg { 
+    font-size: 14px;
+    color: black ;
+    opacity: 45%;
+    font-weight: normal;
+
+}
+
+.plati { 
+    color: #00a650;
+    font-size: 16px ;
+
+}
+
+.stg2{ 
+    font-weight: normal;
+    font-size: 14px ;
+
+}
+
+.LocationIcon { 
+    margin-left: 10px;
+    opacity: .5;
+    width: 25px;
+    height: 25px;
+
+}
+
+.platiniumIcon {
+    color: #00a650;
+    margin-left: 10px;
+    
+    width: 25px;
+    height: 25px;
+
+}
+
+.vend { 
+    margin-left: 25px;
+    
+}
+
+.reputacion {
+    margin-top: 33px ; 
+    display: flex;
+    flex-direction: column ;
+    align-items: center ;
+    margin-bottom: 10px;
+}
+
+.ordered {
+    list-style: none;
+    width: 100%;
+    display: grid ;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 0px;
+    padding: 0 4px;
+}
+
+.li { 
+    width:50px;
+    height: 8px ; }
+
+.active {
+    height: 12px;
+}
+
+.l1 { 
+background-color: var(--reputacion1)
+}
+.l2 { 
+    background-color: var(--reputacion2)
+    }
+.l3 { 
+     background-color: var(--reputacion3)
+        }
+        
+.l4 { 
+            background-color: var(--reputacion4)
+            }
+ .l5 { 
+                background-color: var(--reputacion5)
+                }
+
+.rowI { 
+margin-top: 10px;
+display: flex;
+align-items: flex-start;
+}
+
+.div-in { 
+    width: 33%;
+    padding: 0 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-left: 1px solid var(--border);
+    border-right: 1px solid var(--border);
+
+    
+}
+
+.div-in1 {
+    width: 33%;
+    padding: 0 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center; 
+}
+
+.div-in2 {
+    width: 33%;
+    padding: 0 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: center; 
+}
+
+.stg-i { 
+    font-size: 24px ;
+    font-weight: normal ;
+    height: 30px ;
+}
+
+.span-i { 
+    font-size: 12px ;
+    color: var(--text1)
+}
+
+.rowI { 
+display: flex;
+flex-direction: row;
+
+}
+
+.Link { 
+    margin-top: 24px ;
+    color: var(--blue1);
+    font-size: 14px;
+    text-decoration: none;
+    line-height: 18.9px;
+    margin-left: 15px
+}
